@@ -1,0 +1,6 @@
+app_name = "ticket_workspace"
+app_title = "Ticket Workspace"
+app_publisher = "Taonga Nhambi"
+app_description = "Custom ticket workspace page for ERPNext/Frappe Cloud"
+app_email = "you@example.com"
+app_license = "MIT"
